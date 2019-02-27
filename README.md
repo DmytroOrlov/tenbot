@@ -1,4 +1,10 @@
-# Tenbot Firmware
+ <pre><b><h2> _____         ______       _   
+|_   _|        | ___ \     | |  
+  | | ___ _ __ | |_/ / ___ | |_ 
+  | |/ _ \ '_ \| ___ \/ _ \| __|
+  | |  __/ | | | |_/ / (_) | |_ 
+  \_/\___|_| |_\____/ \___/ \__|</h2></b>  </pre>
+                               
 
 The **Tenbot Firmware** is a custom firmware for the Ninebot ES scooters. It allows the scooter to accept any replacement parts, and to not use any of the proprietary Ninebot firmware.
 
