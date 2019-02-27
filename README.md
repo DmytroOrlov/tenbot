@@ -1,6 +1,6 @@
 # Tenbot Firmware
 
-The **Tenbot Firmware** is a custom firmware for the Ninebot ES2/ES4. It allows the scooter to accept any replacement parts, and to not use any of the proprietary Ninebot firmware.
+The **Tenbot Firmware** is a custom firmware for the Ninebot ES scooters. It allows the scooter to accept any replacement parts, and to not use any of the proprietary Ninebot firmware.
 
 
 # Features
